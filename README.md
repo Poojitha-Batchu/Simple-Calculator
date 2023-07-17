@@ -19,5 +19,4 @@ JavaScript: Implemented the calculator logic and user interaction.
 Acknowledgments:
 
 I would like to express my gratitude to Oasis Infobyte for providing me with the opportunity to work on this project and enhance my web development skills.
-
 Please feel free to explore the code and provide any feedback.

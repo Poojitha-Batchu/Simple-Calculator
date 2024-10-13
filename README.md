@@ -1,6 +1,4 @@
-# OIBSIP-Level2-Task1
-
-Oasis Infobyte Level 2 Task 1 Calculator
+# Simple Calculator
 
 This repository contains my implementation of the Level 2 Task 1 Calculator project as part of my internship at Oasis Infobyte. The project involves developing a simple calculator application using HTML, CSS, and JavaScript.
 
